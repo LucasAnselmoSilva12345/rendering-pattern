@@ -1,0 +1,20 @@
+.box-title h2 {
+  font-size: 1.875rem;
+  font-weight: 700;
+  line-height: normal;
+  color: #222;
+}
+
+.box-title span {
+  font-size: 0.875rem;
+  font-weight: 400;
+  line-height: 1.875rem;
+  color: #464343;
+}
+
+@media only screen and (min-width: 1330px) {
+  .box-title h2 {
+    font-size: 3rem;
+    line-height: 2.25rem;
+  }
+}
